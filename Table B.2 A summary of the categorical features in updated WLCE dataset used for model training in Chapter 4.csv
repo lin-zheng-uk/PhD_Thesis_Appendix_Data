@@ -1,54 +1,53 @@
-feature name,answers,value counts,percent of answers
-Type of heating,Electric Heating,17,11
-,Gas Heating,133,89
-Property type,Flat,85,57
-,House,48,32
-,Bungalow,17,11
-Number of bedrooms,2,44,29
-,1,73,49
-,3,33,22
-Whether have thermostat for boiler controls,no thermostat,64,43
-,thermostat,86,57
-Door entrance materials,timber,54,36
-,UPVC,96,64
-Window frame materials,wood,25,17
-,UPVC,125,83
-Floor heat loss (high or low),high heat loss,77,51
-,low heat loss,73,49
-Loft insulation thickness,greater than 270mm,115,77
-,lower than 270mm,35,23
-Glazing type,double,64,43
-,single,86,57
-Heat loss corridor type,no corridor,98,65
-,             unheated corridor,35,23
-,             heated corridor,17,11
-Whether home is adequately heated,Yes,121,86
-,No,19,14
-Whether have fan,No,97,67
-,Yes,48,33
-Whether avoid heating cost,No,102,71
-,Yes,41,29
-Whether avoid vent save money,Yes,27,19
-,No,115,81
-Kitchen windows open habit,Windows opened regularly,120,80
-,Windows opened not regularly,30,20
-Living room windows open habit,Windows opened regularly,120,80
-,Windows opened not regularly,30,20
-Bathroom windows open habit,Windows opened regularly,120,80
-,Windows opened not regularly,30,20
-Bedroom windows open habit,Windows opened regularly,120,80
-,Windows opened not regularly,30,20
-Whether have electricity smart meter,No,115,77
-,Yes,35,23
-Whether have gas smart meter,No,123,82
-,Yes,27,18
-Number of occupants,1,2,1
-,2,7,5
-,3,79,53
-,4,3,2
-,5,35,23
-,6,0,0
-,7,24,16
-Gender main person,M,54,36
-,F,96,64
-,,,
+feature name,answers,percent of answers
+Type of heating,Electric Heating,11
+,Gas Heating,89
+Property type,Flat,57
+,House,32
+,Bungalow,11
+Number of bedrooms,2,29
+,1,49
+,3,22
+Whether have thermostat for boiler controls,no thermostat,43
+,thermostat,57
+Door entrance materials,timber,36
+,UPVC,64
+Window frame materials,wood,17
+,UPVC,83
+Floor heat loss (high or low),high heat loss,51
+,low heat loss,49
+Loft insulation thickness,greater than 270mm,77
+,lower than 270mm,23
+Glazing type,double,43
+,single,57
+Heat loss corridor type,no corridor,65
+,             unheated corridor,23
+,             heated corridor,11
+Whether home is adequately heated,Yes,86
+,No,14
+Whether have fan,No,67
+,Yes,33
+Whether avoid heating cost,No,71
+,Yes,29
+Whether avoid vent save money,Yes,19
+,No,81
+Kitchen windows open habit,Windows opened regularly,80
+,Windows opened not regularly,20
+Living room windows open habit,Windows opened regularly,80
+,Windows opened not regularly,20
+Bathroom windows open habit,Windows opened regularly,80
+,Windows opened not regularly,20
+Bedroom windows open habit,Windows opened regularly,80
+,Windows opened not regularly,20
+Whether have electricity smart meter,No,77
+,Yes,23
+Whether have gas smart meter,No,82
+,Yes,18
+Number of occupants,1,1
+,2,5
+,3,53
+,4,2
+,5,23
+,6,0
+,7,16
+Gender main person,M,36
+,F,64
